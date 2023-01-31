@@ -4,3 +4,4 @@ var c = a + b;
 
 var d = 500;
 var e = c + d;
+console,log(c,e);
