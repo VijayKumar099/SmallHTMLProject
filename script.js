@@ -3,3 +3,4 @@ var b = 200;
 var c = a + b;
 
 var d = 500;
+var e = c + d;
